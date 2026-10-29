@@ -2,7 +2,6 @@
 
 **Low-power IoT bin monitoring with STM32U083, SX1262 LoRa, ultrasonic level sensing and inductive metal detection.**
 
-[![CI](https://github.com/USERNAME/stm32-lorawan-smart-fill-monitoring/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/stm32-lorawan-smart-fill-monitoring/actions/workflows/ci.yml)
 ![Language](https://img.shields.io/badge/firmware-C99-blue)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-EU868%20Class%20A-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
