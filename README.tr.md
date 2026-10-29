@@ -2,7 +2,6 @@
 
 **STM32U083, SX1262 LoRa, ultrasonik seviye ölçümü ve endüktif metal algılama ile düşük güçlü IoT konteyner izleme.**
 
-[![CI](https://github.com/USERNAME/stm32-lorawan-smart-fill-monitoring/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/stm32-lorawan-smart-fill-monitoring/actions/workflows/ci.yml)
 ![Language](https://img.shields.io/badge/firmware-C99-blue)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-EU868%20Class%20A-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
